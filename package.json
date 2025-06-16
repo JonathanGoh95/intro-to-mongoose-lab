@@ -16,5 +16,10 @@
     "url": "https://github.com/JonathanGoh95/intro-to-mongoose-lab/issues"
   },
   "homepage": "https://github.com/JonathanGoh95/intro-to-mongoose-lab#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.15.2",
+    "prompt-sync": "^4.2.0"
+  }
 }
